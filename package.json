@@ -20,7 +20,7 @@
 		"@rollup/plugin-inject": "5.0.5",
 		"@rollup/plugin-json": "6.1.0",
 		"@types/mathjs": "9.4.2",
-		"ethers": "5.7.2",
+		"ethers": "6.13.5",
 		"mathjs": "12.4.1",
 		"ramda": "0.29.1"
 	},
